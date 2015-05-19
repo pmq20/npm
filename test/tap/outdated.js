@@ -53,7 +53,8 @@ test('it should not throw', function (t) {
       '1.3.1',
       '1.3.1',
       '1.5.1',
-      '1.3.1'
+      '1.3.1',
+      null
     ]
   ]
 
